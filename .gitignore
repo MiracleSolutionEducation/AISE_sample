@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# VSCode
+.vscode/
+
+# モデル・データ
+sentiment_model.pkl
+sentiment_data.csv
+
+# Jupyter Notebook
+*.ipynb_checkpoints/
+
+# OSごとの不要ファイル
+.DS_Store
+Thumbs.db
+
+# 環境変数ファイル
+.env
+.env.*
+!.env.example
