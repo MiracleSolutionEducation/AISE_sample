@@ -4,7 +4,7 @@
 書籍「AIソリューションエンジニアになる本」の演習に使用するコードや、手本となるコードを格納しています。
 
 ## 書籍「AIソリューションエンジニアになる本」について
-購入はこちらから:[https://www.miracle-solution.com/business/<未定>.html](https://www.miracle-solution.com/business/<未定>.html)
+購入はこちらから:[https://www.miracle-solution.com/business/14.html](https://www.miracle-solution.com/business/<未定>.html)
 
 ## ディレクトリ構成について
 チャプターごとにディレクトリが分かれています。各ディレクトリには、対応する章のコードや演習問題の解答が含まれています。
